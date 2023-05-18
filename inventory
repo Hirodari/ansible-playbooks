@@ -1,0 +1,5 @@
+192.168.3.189
+192.168.4.209
+
+[all:vars]
+ansible_python_interpreter=/usr/bin/python2.7
